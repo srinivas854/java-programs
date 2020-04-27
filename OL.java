@@ -11,7 +11,7 @@ System.out.println("String arg");
 public static void main(String[]bgs){
 OL L=new OL();
 L.m1();
-L.m1(15);
-L.m1(" bbb");
+L.m1(150);
+L.m1("mt");
 }
 }
